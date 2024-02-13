@@ -1,0 +1,1 @@
+Explore ML mini-projects with Jupyter notebooks. Discover predictive analysis for commercial sales, leveraging regression models such as linear regression, decision trees, random forests, lasso, ridge, and extra-trees regressor.
